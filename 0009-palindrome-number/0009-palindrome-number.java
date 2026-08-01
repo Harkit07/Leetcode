@@ -1,7 +1,12 @@
 class Solution {
     public boolean isPalindrome(int x) {
-          String str = String.valueOf(x);
-        String rev = new StringBuilder(str).reverse().toString();
-        return str.equals(rev);
+         int rev = 0;
+         int originalNum = x;
+         while(x>0){
+            int lastDigit = x%10;
+            rev=(rev*10)+lastDigit;
+            x/=10;
+        }
+        return rev==originalNum;
     }
 }

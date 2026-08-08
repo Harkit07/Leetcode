@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harkit07/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harkit07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Harkit07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Harkit07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Harkit07/Leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Harkit07/Leetcode/tree/master/0078-subsets) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harkit07/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Harkit07/Leetcode/tree/master/0037-sudoku-solver) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Harkit07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Harkit07/Leetcode/tree/master/0054-spiral-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harkit07/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
@@ -101,5 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Harkit07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Harkit07/Leetcode/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Harkit07/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Harkit07/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

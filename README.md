@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Harkit07/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Harkit07/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harkit07/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0785-is-graph-bipartite](https://github.com/Harkit07/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/Harkit07/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harkit07/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Harkit07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/Harkit07/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Harkit07/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## DP on Trees
 |  |
 | ------- |
@@ -262,8 +264,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Harkit07/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/Harkit07/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Harkit07/Leetcode/tree/master/0210-course-schedule-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harkit07/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harkit07/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Harkit07/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

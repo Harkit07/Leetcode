@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harkit07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Harkit07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Harkit07/Leetcode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/Harkit07/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Harkit07/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harkit07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Harkit07/Leetcode/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/Harkit07/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Harkit07/Leetcode/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Harkit07/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

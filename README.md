@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Harkit07/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Harkit07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harkit07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Harkit07/Leetcode/tree/master/0509-fibonacci-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harkit07/Leetcode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Harkit07/Leetcode/tree/master/0044-wildcard-matching) |
 | [0344-reverse-string](https://github.com/Harkit07/Leetcode/tree/master/0344-reverse-string) |
 | [1143-longest-common-subsequence](https://github.com/Harkit07/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Harkit07/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Harkit07/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Harkit07/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Harkit07/Leetcode/tree/master/0231-power-of-two) |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Harkit07/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Harkit07/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

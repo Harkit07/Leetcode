@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harkit07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harkit07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/Harkit07/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0307-range-sum-query-mutable](https://github.com/Harkit07/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0518-coin-change-ii](https://github.com/Harkit07/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Harkit07/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Harkit07/Leetcode/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harkit07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harkit07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Harkit07/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/Harkit07/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0912-sort-an-array](https://github.com/Harkit07/Leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harkit07/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0707-design-linked-list](https://github.com/Harkit07/Leetcode/tree/master/0707-design-linked-list) |
 ## Bracket Sequences
 |  |
@@ -315,4 +318,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Harkit07/Leetcode/tree/master/0044-wildcard-matching) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harkit07/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harkit07/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Harkit07/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->

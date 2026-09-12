@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Harkit07/Leetcode/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/Harkit07/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Harkit07/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Harkit07/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harkit07/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harkit07/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Harkit07/Leetcode/tree/master/0704-binary-search) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Harkit07/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Harkit07/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Harkit07/Leetcode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Harkit07/Leetcode/tree/master/0733-flood-fill) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Harkit07/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Harkit07/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Harkit07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Harkit07/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Harkit07/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Harkit07/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Harkit07/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/Harkit07/Leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Harkit07/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Harkit07/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |

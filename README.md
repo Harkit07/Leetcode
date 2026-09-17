@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Harkit07/Leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harkit07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harkit07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Harkit07/Leetcode/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harkit07/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Harkit07/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/Harkit07/Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harkit07/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Harkit07/Leetcode/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/Harkit07/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Harkit07/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harkit07/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harkit07/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Harkit07/Leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Harkit07/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harkit07/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Harkit07/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Harkit07/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Harkit07/Leetcode/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/Harkit07/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harkit07/Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Harkit07/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Harkit07/Leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Harkit07/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harkit07/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Harkit07/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harkit07/Leetcode/tree/master/0344-reverse-string) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Harkit07/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Harkit07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -376,5 +381,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Harkit07/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Harkit07/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Harkit07/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

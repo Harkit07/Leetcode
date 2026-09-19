@@ -1,5 +1,5 @@
 class Solution {
-    static class Edge{
+     static class Edge{
         int src;
         int dest;
 
